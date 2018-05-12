@@ -1,0 +1,34 @@
+_repo: The-Adventures-of-a-BearAnd-a-Great-Bear-too_28671
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elwes, Alfred
+    deathdate: 1888
+    gutenberg_agent_id: '9501'
+    url: http://www.gutenberg.org/2009/agents/9501
+description: ''
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bears -- Juvenile fiction'
+title: The Adventures of a Bear, and a Great Bear Too
+url: http://www.gutenberg.org/ebooks/28671
